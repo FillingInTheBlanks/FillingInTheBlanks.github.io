@@ -1,0 +1,1 @@
+var gameInstance = UnityLoader.instantiate("gameContainer", "/assets/js/getaway-shootout.json");

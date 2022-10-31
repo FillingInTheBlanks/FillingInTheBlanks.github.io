@@ -1,0 +1,17 @@
+{
+   "description": {
+      "message": "Rooftop Snipers is an unblocked Unity 2D game for 1 or 2 players! Relish Rooftop Snipers Game browser version"
+   },
+   "game": {
+      "message": "Rooftop Snipers Game"
+   },
+   "got_it": {
+      "message": "OK, got it"
+   },
+   "installed": {
+      "message": "This game is installed"
+   },
+   "play": {
+      "message": "Play"
+   }
+}
